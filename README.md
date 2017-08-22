@@ -1,0 +1,1 @@
+# LayaAir-AMD-adapter
